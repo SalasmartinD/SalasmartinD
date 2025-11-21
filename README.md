@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on projects that software security, web backend development, or creative programming ideas. I value teamwork and enjoy contributing to projects where I can share and learn new skills.
 
-📫 How to reach me Feel free to contact me via email or social media. I’m always open to connecting with people who share similar interests or have exciting projects in mind.
+📫 Feel free to contact me via email or social media. I’m always open to connecting with people who share similar interests or have exciting projects in mind.
 <!--
 **SalasmartinD/SalasmartinD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
