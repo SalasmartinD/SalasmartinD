@@ -34,14 +34,13 @@ Mis proyectos son pruebas de concepto de mi dominio en diferentes áreas del des
 ## 🌱 Currently Focused On
 
 * Profundizar mis conocimientos en **Programación Orientada a Objetos (OOP)** y patrones de diseño avanzados.
-* Mejorar mi fluidez en **Python** para *scripting* y seguridad.
+* Mejorar mi fluidez en **C#**
 * Optimización de rendimiento en APIs.
 
 ## 🤝 Connect With Me
 
 Estoy disponible para colaborar en proyectos que requieran soluciones escalables, desarrollo backend o ideas creativas de programación.
 
-[Simulated GitHub Icon] [Simulated LinkedIn Icon] [Simulated Email Icon]
 <!--
 **SalasmartinD/SalasmartinD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
