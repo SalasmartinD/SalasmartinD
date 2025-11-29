@@ -1,6 +1,6 @@
 # 🚀 Hola, I’m Salas Martín Daniel @SalasmartinD
 
-### 💻 Full-Stack Developer | C# .NET Specialist | Software Architect
+### 💻 Full-Stack Developer | C# .NET Specialist
 
 Soy un estudiante de Ingeniería en Informática con una profunda dedicación a la construcción de software robusto y de alta calidad. Mi enfoque combina el conocimiento técnico con una apreciación por la **precisión** y la **atención al detalle** que aplico en la resolución de problemas complejos.
 
