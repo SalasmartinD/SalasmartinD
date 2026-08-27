@@ -1,57 +1,65 @@
-# 🚀 Hola, I’m Salas Martín Daniel @SalasmartinD
+# Salas Martín Daniel
 
-### 💻 Full-Stack Developer | C# .NET Specialist
+### Software Engineer Full-Stack
 
-Soy un estudiante de Ingeniería en Informática con una profunda dedicación a la construcción de software robusto y de alta calidad. Mi enfoque combina el conocimiento técnico con una apreciación por la **precisión** y la **atención al detalle** que aplico en la resolución de problemas complejos.
+Estudiante avanzado de Ingeniería en Informática (UNLaM) y desarrollador full-stack, enfocado en
+construir aplicaciones web modernas e integrar inteligencia artificial en productos reales. Combino
+formación académica con experiencia profesional day-to-day, tanto en relación de dependencia como en
+proyectos freelance de punta a punta.
 
 ---
 
-## 🛠️ My Primary Expertise
+## Stack principal
 
-Me especializo en el **Ecosistema C# / .NET**, con énfasis en la arquitectura de aplicaciones empresariales.
-
-| Área | Tecnologías & Habilidades |
+| Área | Tecnologías |
 | :--- | :--- |
-| **Backend & Data** | **ASP.NET Core Web API**, **Entity Framework Core (EF Core)**, PostgreSQL, SendGrid, **Clean Architecture**. |
-| **Arquitectura** | **Patrón Repository, Unit of Work (UoW)**, **MVVM** (Model-View-ViewModel), Inyección de Dependencias. |
-| **Frontend & UI** | **Blazor WebAssembly (WASM)**, JavaScript Interop, XAML (WPF/MAUI). |
-| **DevOps & Cloud** | **Docker** (Contenerización), **Render** (Despliegue), Vercel, Git/GitHub. |
-| **Calidad** | Fundamentos de **Pruebas Unitarias** (xUnit, Moq). |
+| Frontend | React, TypeScript, Next.js, Tailwind CSS |
+| Backend & Datos | Node.js, Supabase, PostgreSQL, APIs REST |
+| IA aplicada | Integración de herramientas y funcionalidades basadas en IA en productos reales |
+| Prácticas | Documentación técnica, informes de arquitectura, ciclo de vida completo de desarrollo |
 
----
+## Base técnica adicional
 
-## 🎯 Current Projects & Proof Points
+Antes de especializarme en el stack de JavaScript/TypeScript, construí una base sólida en
+programación orientada a objetos y arquitectura backend con:
 
-Mis proyectos son pruebas de concepto de mi dominio en diferentes áreas del desarrollo de software:
+| Área | Tecnologías |
+| :--- | :--- |
+| Backend | C#, .NET, ASP.NET Core Web API, Entity Framework Core |
+| Frontend | Blazor WebAssembly |
+| Arquitectura | Repository, Unit of Work, MVVM, Clean Architecture |
+| DevOps | Docker, Git/GitHub, CI/CD |
 
-* **[Live] Portafolio Web Personal (Full-Stack):** Aplicación live desplegada en la nube, usando Blazor WASM para el frontend y una API de .NET Core conectada a PostgreSQL.
-* **LubriManager (WPF / MVVM):** Aplicación de escritorio profesional para gestión de talleres, demostrando la arquitectura **MVVM** y enlace de datos avanzado.
-* **Bitácora de Servicios (.NET MAUI):** Solución multiplataforma para registro histórico de vehículos, lista para ser usada en PC o Tablet.
-* **API de Catálogo (Microservicio):** Backend puro centrado en la arquitectura RESTful y el uso de bases de datos NoSQL (MongoDB).
+## Experiencia actual
 
----
+- **Software Engineer Web — AranguriApps.** Participo en el ciclo de vida completo de las
+  aplicaciones: diseño, implementación, despliegue y mantenimiento. Implemento herramientas basadas
+  en IA para potenciar los productos, y elaboro informes de arquitectura y documentación técnica.
+- **Desarrollador Full Stack Freelance.** Manejo el proceso completo para clientes particulares:
+  relevamiento de necesidades, diseño de la solución, desarrollo y acompañamiento post-entrega.
 
-## 🌱 Currently Focused On
+## Proyectos destacados
 
-* Profundizar mis conocimientos en **Programación Orientada a Objetos (OOP)** y patrones de diseño avanzados.
-* Mejorar mi fluidez en **C#**
-* Optimización de rendimiento en APIs.
+- **Plataforma Web para Concesionaria de Vehículos** — Next.js, React, TypeScript, Supabase, Tailwind CSS.
+  Gestión, exposición y reserva de vehículos en stock, optimizada para SEO.
+- **RPManager** — .NET, Blazor, PostgreSQL, Docker. Sistema de gestión empresarial con integración de
+  IA para la toma de decisiones.
+- **LubriManager** — C#, .NET, WPF, MVVM, SQL Server. Software de gestión para lubricentros con control
+  de stock, ventas y pedidos a proveedores.
+- **Catalog API** — ASP.NET Core, MongoDB, Docker. API RESTful orientada a microservicios para gestión
+  de catálogos de productos.
 
-## 🤝 Connect With Me
+Más detalle en mi [portfolio](https://github.com/SalasmartinD/PortfolioSolution).
 
-Estoy disponible para colaborar en proyectos que requieran soluciones escalables, desarrollo backend o ideas creativas de programación.
+## Actualmente enfocado en
 
-<!--
-**SalasmartinD/SalasmartinD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Profundizar en arquitectura de software y patrones de diseño aplicados a productos reales.
+- Integrar IA de forma práctica en flujos de trabajo y productos.
+- Sumar proyectos donde pueda aportar tanto en el código como en las decisiones de arquitectura.
 
-Here are some ideas to get you started:
+## Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Disponible para hablar sobre oportunidades o intercambiar ideas.
+
+- Email: salasmartindaniel0@gmail.com
+- LinkedIn: [Salas Martín Daniel](https://www.linkedin.com/in/martíndanielsalas)
