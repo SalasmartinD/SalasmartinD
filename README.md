@@ -1,3 +1,4 @@
+<img width="1200" height="300" alt="GithubTerminal@1x" src="https://github.com/user-attachments/assets/a13aac4b-1954-4935-962f-510c1ef6d5fb" />
 # Salas Martín Daniel
 
 ### Software Engineer Full-Stack
