@@ -38,17 +38,6 @@ programación orientada a objetos y arquitectura backend con:
 - **Desarrollador Full Stack Freelance.** Manejo el proceso completo para clientes particulares:
   relevamiento de necesidades, diseño de la solución, desarrollo y acompañamiento post-entrega.
 
-## Proyectos destacados
-
-- **Plataforma Web para Concesionaria de Vehículos** — Next.js, React, TypeScript, Supabase, Tailwind CSS.
-  Gestión, exposición y reserva de vehículos en stock, optimizada para SEO.
-- **RPManager** — .NET, Blazor, PostgreSQL, Docker. Sistema de gestión empresarial con integración de
-  IA para la toma de decisiones.
-- **LubriManager** — C#, .NET, WPF, MVVM, SQL Server. Software de gestión para lubricentros con control
-  de stock, ventas y pedidos a proveedores.
-- **Catalog API** — ASP.NET Core, MongoDB, Docker. API RESTful orientada a microservicios para gestión
-  de catálogos de productos.
-
 Más detalle en mi [portfolio](https://github.com/SalasmartinD/PortfolioSolution).
 
 ## Actualmente enfocado en
